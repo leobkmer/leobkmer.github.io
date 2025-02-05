@@ -13,7 +13,7 @@ title                    : "Leonard Bohnenkämper"
 title_separator          : "-"
 name                     : &name "Leonard Bohnenkaemper"
 description              : &description "L Bohnenkaemper"
-url                      : https://leobkmer.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://leobkmer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
