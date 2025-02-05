@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "leobkmer.jpeg"
   name             : "Leonard Bohnenkämper"
   pronouns         : "he/him//they/them"  
   bio              : "Hi, I like bio/informatics, particularly algorithms for combinatorial problems."
