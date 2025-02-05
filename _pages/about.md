@@ -1,4 +1,12 @@
-## About me
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I'm a phD student at the Genome Informatics Group at Bielefeld University.
 
 ## Research interests
