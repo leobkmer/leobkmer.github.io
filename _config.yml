@@ -28,10 +28,9 @@ author:
   bio              : "Hi, I like bio/informatics, particularly algorithms for combinatorial problems."
   location         : "Germany"
   employer         : "Bielefeld University"
-  uri              : #"https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=129443261"
+  uri              : "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=129443261"
   email            : #"none@example.org" 
-  contact          : "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=129443261"
-
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PqGghXsAAAAJ"
