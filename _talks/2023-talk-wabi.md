@@ -4,7 +4,8 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2023-talk-wabi
 venue: "WABI 2023"
-date: 2022-09-16
+date: 2023-09-16
 location: "Houston, TX"
 ---
 
+[Slides](https://leobkmer.github.io/2023-talk-wabi.pdf)
