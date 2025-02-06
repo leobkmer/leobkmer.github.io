@@ -7,7 +7,7 @@ excerpt: ''
 date: 2020-04-21
 venue: 'Proceedings of RECOMB 2020'
 paperurl: 'https://doi.org/10.1007/978-3-030-45257-5_1'
-slids: 'https://leobkmer.github.io/talks/2020-talk-recomb'
+slidsurl: 'https://leobkmer.github.io/talks/2020-talk-recomb'
 ---
 
 
