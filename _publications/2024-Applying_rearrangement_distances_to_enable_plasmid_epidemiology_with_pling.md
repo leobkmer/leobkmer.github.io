@@ -1,4 +1,3 @@
-
 ---
 title: "Applying rearrangement distances to enable plasmid epidemiology with pling"
 collection: publications

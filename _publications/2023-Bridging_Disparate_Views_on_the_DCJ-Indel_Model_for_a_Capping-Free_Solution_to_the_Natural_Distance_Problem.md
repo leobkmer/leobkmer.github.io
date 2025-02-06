@@ -1,4 +1,3 @@
-
 ---
 title: "Bridging Disparate Views on the DCJ-Indel Model for a Capping-Free Solution to the Natural Distance Problem"
 collection: publications

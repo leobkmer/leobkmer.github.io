@@ -1,4 +1,3 @@
-
 ---
 title: "The Floor Is Lava: Halving Natural Genomes with Viaducts, Piers, and Pontoons"
 collection: publications

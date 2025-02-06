@@ -1,4 +1,3 @@
-
 ---
 title: "Computing the Rearrangement Distance of Natural Genomes"
 collection: publications

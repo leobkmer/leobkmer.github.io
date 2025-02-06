@@ -1,4 +1,3 @@
-
 ---
 title: "Reconstructing Rearrangement Phylogenies of Natural Genomes"
 collection: publications
