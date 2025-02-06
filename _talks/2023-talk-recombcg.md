@@ -8,3 +8,4 @@ date: 2023-04-14
 location: "Istanbul, Turkey"
 ---
 
+[Slides](https://leobkmer.github.io/files/2023-talk-recombcg.pdf)
