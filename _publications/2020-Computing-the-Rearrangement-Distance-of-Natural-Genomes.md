@@ -6,8 +6,8 @@ permalink: /publication/2020-Computing-the-Rearrangement-Distance-of-Natural-Gen
 excerpt: ''
 date: 2020-04-21
 venue: 'Proceedings of RECOMB 2020'
+slidesurl: 'https://leobkmer.github.io/talks/2020-talk-recomb'
 paperurl: 'https://doi.org/10.1007/978-3-030-45257-5_1'
-slidsurl: 'https://leobkmer.github.io/talks/2020-talk-recomb'
 ---
 
 

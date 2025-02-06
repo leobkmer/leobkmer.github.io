@@ -6,8 +6,8 @@ permalink: /publication/2023-Bridging-Disparate-Views-on-the-DCJ-Indel-Model-for
 excerpt: ''
 date: 2023-08-29
 venue: 'Proceedings of WABI 2023'
-paperurl: 'https://doi.org/10.4230/LIPIcs.WABI.2023.22'
 slidesurl: 'https://leobkmer.github.io/files/2023-talk-wabi.pdf'
+paperurl: 'https://doi.org/10.4230/LIPIcs.WABI.2023.22'
 ---
 
 
