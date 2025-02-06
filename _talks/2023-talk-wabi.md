@@ -8,4 +8,4 @@ date: 2023-09-16
 location: "Houston, TX"
 ---
 
-[Slides](https://leobkmer.github.io/2023-talk-wabi.pdf)
+[Slides](https://leobkmer.github.io/files/2023-talk-wabi.pdf)
