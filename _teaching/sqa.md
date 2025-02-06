@@ -2,9 +2,9 @@
 title: "Sequence Analysis (Exercises/Practical Course)"
 collection: teaching
 type: "exercises"
-permalink: /sqa
+permalink: /teaching/sqa
 venue: "Bielefeld University"
-date: 2025-01-04
+date: 2025-04-01
 location: "Bielefeld, Germany"
 ---
 
