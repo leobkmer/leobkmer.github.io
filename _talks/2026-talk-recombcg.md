@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2026-talk-recombcg
 venue: "RECOMB-CG 2026"
-date: 2026-05-23
+date: 2026-05-24
 location: "Thessaloniki, Greece"
 ---
 
