@@ -1,7 +1,7 @@
 ---
 title: "Reconstructing rearrangement phylogenies of natural genomes"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-Reconstructing-rearrangement-phylogenies-of-natural-genomes
 excerpt: ''
 date: 2025-01-01

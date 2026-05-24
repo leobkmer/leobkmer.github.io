@@ -1,7 +1,7 @@
 ---
 title: "Closing the Complexity Gap of the Double Distance Problem"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-Closing-the-Complexity-Gap-of-the-Double-Distance-Problem
 excerpt: ''
 date: 2025-01-01
